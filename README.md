@@ -11,7 +11,7 @@ Launch the application and enter the CVE identifier.
 Click on the "Search" button to retrieve information from various sources.
 View the collected data on the application interface.
 Optionally, click on the "Save as Document" button to generate a Word document containing all gathered information.
-**Note:** This application was developed for learning purposes as part of a project to streamline vulnerability analysis and documentation processes.
+**Note:** This application was developed for learning purposes as part of a project to streamline vulnerability analysis and documentation processes
 
 
 
